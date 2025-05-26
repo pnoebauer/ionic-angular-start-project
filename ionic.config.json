@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-start-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
